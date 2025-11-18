@@ -1,0 +1,4 @@
+# Required packages for Two Player Rock Paper Scissors
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.21.0
